@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "id": "safwan",
+      "email": "vvsafwan2002@gmail.com",
+      "mobile": 1234569870,
+      "password": "123"
+    },
+    {
+      "id": "arshaq",
+      "email": "muhammedarshaque1999@gmail.com",
+      "mobile": 2564789123,
+      "password": "123578"
+    },
+    {
+      "id": "siraj",
+      "email": "munnasmunna@gmail.com",
+      "mobile": 7564982556,
+      "password": "abc"
+    },
+    {
+      "id": "rashi",
+      "email": "rashi@gmail.com",
+      "mobile": "123123",
+      "password": "123"
+    },
+    {
+      "id": "ajmal",
+      "email": "ajmalsabith444@gmail.com",
+      "mobile": "7239851523",
+      "password": "15364"
+    },
+    {
+      "id": "vyshnav",
+      "email": "vyshnav@gmail.com",
+      "mobile": "12345",
+      "password": "1234"
+    },
+    {
+      "id": "fazil",
+      "email": "fazil@gmail.com",
+      "mobile": "75153565",
+      "password": "12345"
+    }
+  ],
+  "blog": [
+    {
+      "id": 1,
+      "name": "Jailsalmer",
+      "category": "travel",
+      "description": "something"
+    },
+    {
+      "id": 2,
+      "name": "Biriyani",
+      "category": "food",
+      "description": "delicious"
+    },
+    {
+      "id": 3,
+      "name": "iphone",
+      "category": "technology",
+      "description": "magic"
+    },
+    {
+      "name": "Fried Rice",
+      "category": "food",
+      "description": "Super tasty",
+      "id": 4
+    },
+    {
+      "name": "samsung",
+      "category": "technology",
+      "description": "New variants",
+      "id": 5
+    },
+    {
+      "name": "huwai",
+      "category": "technology",
+      "description": "good",
+      "id": 6
+    },
+    {
+      "name": "noodles",
+      "category": "food",
+      "description": "Soo long",
+      "id": 7
+    }
+  ]
+}
