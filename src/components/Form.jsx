@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import { useNavigate } from 'react-router-dom';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import LoginNav from './LoginNav';
 
 export default function Form() {
   const [id, setId] = useState('');
@@ -36,7 +37,9 @@ export default function Form() {
   };
 
   return (
-    <div className='w-[100vw] flex items-center justify-center h-[90vh]'>
+    <div>
+      <LoginNav />
+      <div className='w-[100vw] flex items-center justify-center h-[90vh]'>
       <form className="w-full max-w-sm" onSubmit={handleSubmit}>
         <div className="md:flex md:items-center mb-6">
           <div className="md:w-1/3">
@@ -80,6 +83,7 @@ export default function Form() {
         </div>
       </form>
       <ToastContainer />
+    </div>
     </div>
   )
 }

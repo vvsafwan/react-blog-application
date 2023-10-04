@@ -41,6 +41,12 @@
       "email": "fazil@gmail.com",
       "mobile": "75153565",
       "password": "12345"
+    },
+    {
+      "id": "anagha",
+      "email": "anaghaponnore2000@gmail.com",
+      "mobile": "7525456585",
+      "password": "12345"
     }
   ],
   "blog": [
@@ -85,6 +91,18 @@
       "category": "food",
       "description": "Soo long",
       "id": 7
+    },
+    {
+      "name": "Mysore",
+      "category": "travel",
+      "description": "Awesome place",
+      "id": 8
+    },
+    {
+      "name": "Masala Dosa",
+      "category": "food",
+      "description": "Tasty Dosa",
+      "id": 9
     }
   ]
 }
